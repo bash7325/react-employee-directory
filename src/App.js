@@ -2,7 +2,7 @@
 import React from 'react';
 import './App.css';
 import './index.css';
-import MainContent from './components/MainContent'
+import Main from './components/main'
 
 function App() {
     return (
