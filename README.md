@@ -6,7 +6,7 @@
 
 # Deployed Link
 
-
+- [Employee Directory](https://bash7325.github.io/react-employee-directory/)
 # Installation
 - Clone repository to local machine.  In the terminal run: npm start.
 
