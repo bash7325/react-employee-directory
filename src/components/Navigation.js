@@ -3,7 +3,8 @@ import '../index.css';
 
 function SearchForm(props) {
   return (
-  
+  <>
+  </>
   );
 }
 
